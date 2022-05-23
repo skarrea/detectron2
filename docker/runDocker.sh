@@ -1,0 +1,1 @@
+docker run -v /home/coline/ObjectDetector:/ObjectDetector --gpus all -it --shm-size=24gb detectron2skarrea:0.1
